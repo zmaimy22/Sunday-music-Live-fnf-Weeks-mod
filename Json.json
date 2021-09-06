@@ -1,0 +1,60 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Example 1",
+      "playStoreID": "spider.robot.Spaceship.bus.transform.war",
+      "appStoreID": "1111",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/LeeHwak2/1/16417afe4444ec28cf52abad46edfff3e63c86e6/ads1.png",
+          "frameColor": "#f44242"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/LeeHwak2/1/16417afe4444ec28cf52abad46edfff3e63c86e6/ads1.png",
+          "frameColor": "#41f456"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.spider.rope.hero.gorilla.robot.transformers.games",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/LeeHwak2/1/f376eb8a454f899da9d9fc3422247e29c82552ba/ads2.png",
+          "frameColor": "#5841f4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "spider.robot.Spaceship.bus.transform.war",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/LeeHwak2/1/16417afe4444ec28cf52abad46edfff3e63c86e6/ads1.png",
+          "frameColor": "#5841f4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.spider.rope.hero.gorilla.robot.transformers.games",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://raw.githubusercontent.com/LeeHwak2/1/f376eb8a454f899da9d9fc3422247e29c82552ba/ads2.png",
+          "frameColor": "#5841f4"
+        }
+      ]
+    }
+  ]
+}
