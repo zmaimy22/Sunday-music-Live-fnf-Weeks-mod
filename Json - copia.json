@@ -1,0 +1,60 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "Example 1",
+      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "appStoreID": "1111",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://github.com/zmaimy22/Sunday-music-Live-fnf-Weeks-mod/raw/main/screen-0.jpg",
+          "frameColor": "#f44242"
+        },
+        {
+          "url": "https://github.com/zmaimy22/Sunday-music-Live-fnf-Weeks-mod/raw/main/screen-0.jpg",
+          "frameColor": "#41f456"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://github.com/zmaimy22/Sunday-music-Live-fnf-Weeks-mod/raw/main/screen-0.jpg",
+          "frameColor": "#5841f4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://github.com/zmaimy22/Sunday-music-Live-fnf-Weeks-mod/raw/main/screen-0.jpg",
+          "frameColor": "#5841f4"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Example 2",
+      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "appStoreID": "2222",
+      "price": "FREE",
+      "images": [
+        {
+          "url": "https://github.com/zmaimy22/Sunday-music-Live-fnf-Weeks-mod/raw/main/screen-0.jpg",
+          "frameColor": "#5841f4"
+        }
+      ]
+    }
+  ]
+}
