@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Example 1",
-      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "playStoreID": "com.DefaultCompany.SundaynightBattlemusicfnfWeeksmod",
       "appStoreID": "1111",
       "price": "FREE",
       "images": [
@@ -20,7 +20,7 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "playStoreID": "com.DefaultCompany.SundaynightBattlemusicfnfWeeksmod",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
@@ -33,7 +33,7 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "playStoreID": "com.DefaultCompany.SundaynightBattlemusicfnfWeeksmod",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
@@ -46,7 +46,7 @@
     {
       "id": 2,
       "name": "Example 2",
-      "playStoreID": "com.sunday.night.battle.music.mod.week",
+      "playStoreID": "com.DefaultCompany.SundaynightBattlemusicfnfWeeksmod",
       "appStoreID": "2222",
       "price": "FREE",
       "images": [
